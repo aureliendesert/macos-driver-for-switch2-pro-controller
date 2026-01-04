@@ -1,0 +1,24 @@
+# On ignore les dossiers de build et de distribution
+app/dist/
+app/build/
+*.spec
+
+# On ignore tous les fichiers de cache Python
+**/__pycache__/
+*.pyc
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers Python (si tu l'utilises)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# IDE (Visual Studio Code, etc.)
+.vscode/
+.idea/
