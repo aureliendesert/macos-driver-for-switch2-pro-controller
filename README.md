@@ -1,6 +1,6 @@
 # 🎮 Switch 2 Pro Controller - macOS Driver
 
-**The first working Bluetooth driver for the Nintendo Switch 2 Pro Controller on macOS.**
+**Bluetooth driver for the Nintendo Switch 2 Pro Controller on macOS.**
 
 <p align="center">
   <img src="assets/demo.gif" alt="Demo" width="600">
