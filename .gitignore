@@ -1,0 +1,15 @@
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers Python (si tu l'utilises)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# IDE (Visual Studio Code, etc.)
+.vscode/
+.idea/
